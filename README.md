@@ -1,3 +1,7 @@
 # OpenCV
 
 HomePage: https://opencv.org/
+
+WORK IN PROGRESS
+
+REPOSITORY WILL BE UPDATED WITH CONTENT SOON !!
